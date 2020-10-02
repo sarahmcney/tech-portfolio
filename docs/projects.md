@@ -8,7 +8,7 @@ Embed any notable projects in this page.
 For example, my favorite project would be linked and I can even embed
 a screenshot or GIF to show it.
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
+## Undergraduate Researcher: Aresty Research Center for Undergraduates at Rutgers University
+I was selected to research the use of computer visioning techniques for tracking cloud movement as a part of the 2020 Aresty Summer Science Program. Over the course of eight weeks, I wrote tools for feature matching, RGB analysis, thresholding, and creating disparity maps and point clouds. Attached is the final research poster I created and presented in front of over 100 members of the Rutgers community. 
 
-![Add alternate text for image](./assets/rosemary.png)
+![Research Poster: Computer Visioning for Tracking Clouds - Solar Array Performance Studies](./assets/researchposter.png)
